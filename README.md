@@ -10,12 +10,6 @@ SumaOps is a visual Kubernetes dashboard to visualize in real time:
 ![GitHub last commit](https://img.shields.io/github/last-commit/ametzo25/sumaops)
 ![GitHub license](https://img.shields.io/github/license/ametzo25/sumaops)
 
-## 🚀 Quick installation
-
-```bash
-chmod +x install_sumaops.sh
-./install_sumaops.sh
-
 🧩 Features
 
 Live visualization of Kubernetes resources
@@ -33,3 +27,10 @@ Local cluster: Minikube (default)
 Full Docker support
 CI/CD integration
 Electron desktop version
+
+
+## 🚀 Quick installation
+
+```bash
+chmod +x install_sumaops.sh
+./install_sumaops.sh
