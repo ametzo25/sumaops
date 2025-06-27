@@ -1,0 +1,881 @@
+✅ Backend SumaOps running on port 3000
+Erreur namespaces: Command failed: kubectl get namespaces -o json
+E0626 23:09:38.551427    4816 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": net/http: TLS handshake timeout
+E0626 23:09:48.554903    4816 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": net/http: TLS handshake timeout
+E0626 23:09:58.558062    4816 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": net/http: TLS handshake timeout
+E0626 23:10:08.559690    4816 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": net/http: TLS handshake timeout
+E0626 23:10:18.561636    4816 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": net/http: TLS handshake timeout
+Unable to connect to the server: net/http: TLS handshake timeout
+
+Erreur namespaces: Command failed: kubectl get namespaces -o json
+E0626 23:09:38.551430    4815 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": net/http: TLS handshake timeout
+E0626 23:09:48.555910    4815 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": net/http: TLS handshake timeout
+E0626 23:09:58.557318    4815 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": net/http: TLS handshake timeout
+E0626 23:10:08.560386    4815 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": net/http: TLS handshake timeout
+E0626 23:10:18.561480    4815 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": net/http: TLS handshake timeout
+Unable to connect to the server: net/http: TLS handshake timeout
+
+❌ Erreur lors de l’exécution de kubectl get pods -A -o json : Command failed: kubectl get pods -A -o json
+E0626 23:09:48.096002    4832 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": net/http: TLS handshake timeout
+E0626 23:09:58.096789    4832 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": net/http: TLS handshake timeout
+E0626 23:10:08.098834    4832 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": net/http: TLS handshake timeout
+E0626 23:10:18.100249    4832 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": net/http: TLS handshake timeout
+E0626 23:10:28.101730    4832 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": net/http: TLS handshake timeout
+Unable to connect to the server: net/http: TLS handshake timeout
+
+❌ Erreur lors de l’exécution de kubectl get pods -A -o json : Command failed: kubectl get pods -A -o json
+E0626 23:09:50.984678    4836 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": net/http: TLS handshake timeout
+E0626 23:10:00.986245    4836 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": net/http: TLS handshake timeout
+E0626 23:10:10.989556    4836 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": net/http: TLS handshake timeout
+E0626 23:10:20.990551    4836 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": net/http: TLS handshake timeout
+E0626 23:10:30.992352    4836 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": net/http: TLS handshake timeout
+Unable to connect to the server: net/http: TLS handshake timeout
+
+❌ Erreur lors de l’exécution de kubectl get pods -A -o json : Command failed: kubectl get pods -A -o json
+E0626 23:09:52.072083    4837 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": net/http: TLS handshake timeout
+E0626 23:10:02.073814    4837 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": net/http: TLS handshake timeout
+E0626 23:10:12.075578    4837 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": net/http: TLS handshake timeout
+E0626 23:10:22.077792    4837 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": net/http: TLS handshake timeout
+E0626 23:10:32.080363    4837 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": net/http: TLS handshake timeout
+Unable to connect to the server: net/http: TLS handshake timeout
+
+❌ Erreur lors de l’exécution de kubectl get pods -A -o json : Command failed: kubectl get pods -A -o json
+E0626 23:10:28.648146    4899 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": net/http: TLS handshake timeout
+E0626 23:10:38.650029    4899 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": net/http: TLS handshake timeout
+E0626 23:10:48.651947    4899 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": net/http: TLS handshake timeout
+E0626 23:10:58.654281    4899 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": net/http: TLS handshake timeout
+E0626 23:11:08.656684    4899 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": net/http: TLS handshake timeout
+Unable to connect to the server: net/http: TLS handshake timeout
+
+❌ Erreur lors de l’exécution de kubectl get pods -A -o json : Command failed: kubectl get pods -A -o json
+E0626 23:10:28.648096    4900 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": net/http: TLS handshake timeout
+E0626 23:10:38.650083    4900 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": net/http: TLS handshake timeout
+E0626 23:10:48.651951    4900 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": net/http: TLS handshake timeout
+E0626 23:10:58.654414    4900 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": net/http: TLS handshake timeout
+E0626 23:11:08.656681    4900 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": net/http: TLS handshake timeout
+Unable to connect to the server: net/http: TLS handshake timeout
+
+❌ Erreur lors de l’exécution de kubectl get pods -A -o json : Command failed: kubectl get pods -A -o json
+E0626 23:10:28.648724    4901 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": net/http: TLS handshake timeout
+E0626 23:10:38.650372    4901 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": net/http: TLS handshake timeout
+E0626 23:10:48.651950    4901 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": net/http: TLS handshake timeout
+E0626 23:10:58.654276    4901 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": net/http: TLS handshake timeout
+E0626 23:11:08.656681    4901 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": net/http: TLS handshake timeout
+Unable to connect to the server: net/http: TLS handshake timeout
+
+❌ Erreur lors de l’exécution de kubectl get deployments -A -o json : Command failed: kubectl get deployments -A -o json
+E0626 23:10:38.175340    4916 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": net/http: TLS handshake timeout
+E0626 23:10:48.176244    4916 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": net/http: TLS handshake timeout
+E0626 23:10:58.177419    4916 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": net/http: TLS handshake timeout
+E0626 23:11:08.178614    4916 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": net/http: TLS handshake timeout
+E0626 23:11:18.180553    4916 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": net/http: TLS handshake timeout
+Unable to connect to the server: net/http: TLS handshake timeout
+
+❌ Erreur lors de l’exécution de kubectl get deployments -A -o json : Command failed: kubectl get deployments -A -o json
+E0626 23:10:41.061097    4919 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": net/http: TLS handshake timeout
+E0626 23:10:51.062227    4919 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": net/http: TLS handshake timeout
+E0626 23:11:01.062956    4919 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": net/http: TLS handshake timeout
+E0626 23:11:11.064423    4919 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": net/http: TLS handshake timeout
+E0626 23:11:21.065372    4919 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": net/http: TLS handshake timeout
+Unable to connect to the server: net/http: TLS handshake timeout
+
+❌ Erreur lors de l’exécution de kubectl get deployments -A -o json : Command failed: kubectl get deployments -A -o json
+E0626 23:10:42.146893    4922 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": net/http: TLS handshake timeout
+E0626 23:10:52.148385    4922 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": net/http: TLS handshake timeout
+E0626 23:11:02.150199    4922 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": net/http: TLS handshake timeout
+E0626 23:11:12.152510    4922 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": net/http: TLS handshake timeout
+E0626 23:11:22.154209    4922 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": net/http: TLS handshake timeout
+Unable to connect to the server: net/http: TLS handshake timeout
+
+❌ Erreur lors de l’exécution de kubectl get deployments -A -o json : Command failed: kubectl get deployments -A -o json
+E0626 23:11:18.731406    4980 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": net/http: TLS handshake timeout
+E0626 23:11:28.733421    4980 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": net/http: TLS handshake timeout
+E0626 23:11:38.734681    4980 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": net/http: TLS handshake timeout
+E0626 23:11:48.736336    4980 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": net/http: TLS handshake timeout
+E0626 23:11:58.737742    4980 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": net/http: TLS handshake timeout
+Unable to connect to the server: net/http: TLS handshake timeout
+
+❌ Erreur lors de l’exécution de kubectl get deployments -A -o json : Command failed: kubectl get deployments -A -o json
+E0626 23:11:18.731328    4981 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": net/http: TLS handshake timeout
+E0626 23:11:28.733441    4981 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": net/http: TLS handshake timeout
+E0626 23:11:38.734690    4981 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": net/http: TLS handshake timeout
+E0626 23:11:48.736170    4981 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": net/http: TLS handshake timeout
+E0626 23:11:58.738177    4981 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": net/http: TLS handshake timeout
+Unable to connect to the server: net/http: TLS handshake timeout
+
+❌ Erreur lors de l’exécution de kubectl get deployments -A -o json : Command failed: kubectl get deployments -A -o json
+E0626 23:11:18.732423    4982 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": net/http: TLS handshake timeout
+E0626 23:11:28.734259    4982 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": net/http: TLS handshake timeout
+E0626 23:11:38.735502    4982 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": net/http: TLS handshake timeout
+E0626 23:11:48.736170    4982 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": net/http: TLS handshake timeout
+E0626 23:11:58.737845    4982 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": net/http: TLS handshake timeout
+Unable to connect to the server: net/http: TLS handshake timeout
+
+❌ Erreur lors de l’exécution de kubectl get svc -A -o json : Command failed: kubectl get svc -A -o json
+E0626 23:11:28.247835    4997 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": net/http: TLS handshake timeout
+E0626 23:11:38.249195    4997 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": net/http: TLS handshake timeout
+E0626 23:11:48.250663    4997 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": net/http: TLS handshake timeout
+E0626 23:11:58.251924    4997 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": net/http: TLS handshake timeout
+E0626 23:12:08.253320    4997 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": net/http: TLS handshake timeout
+Unable to connect to the server: net/http: TLS handshake timeout
+
+❌ Erreur lors de l’exécution de kubectl get svc -A -o json : Command failed: kubectl get svc -A -o json
+E0626 23:11:31.136611    5000 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": net/http: TLS handshake timeout
+E0626 23:11:41.138650    5000 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": net/http: TLS handshake timeout
+E0626 23:11:51.140475    5000 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": net/http: TLS handshake timeout
+E0626 23:12:01.142473    5000 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": net/http: TLS handshake timeout
+E0626 23:12:11.144290    5000 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": net/http: TLS handshake timeout
+Unable to connect to the server: net/http: TLS handshake timeout
+
+❌ Erreur lors de l’exécution de kubectl get svc -A -o json : Command failed: kubectl get svc -A -o json
+E0626 23:11:32.222172    5003 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": net/http: TLS handshake timeout
+E0626 23:11:42.223572    5003 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": net/http: TLS handshake timeout
+E0626 23:11:52.225030    5003 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": net/http: TLS handshake timeout
+E0626 23:12:02.226447    5003 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": net/http: TLS handshake timeout
+E0626 23:12:12.227787    5003 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": net/http: TLS handshake timeout
+Unable to connect to the server: net/http: TLS handshake timeout
+
+❌ Erreur lors de l’exécution de kubectl get svc -A -o json : Command failed: kubectl get svc -A -o json
+E0626 23:12:08.808002    5055 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": net/http: TLS handshake timeout
+E0626 23:12:18.809808    5055 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": net/http: TLS handshake timeout
+E0626 23:12:28.810686    5055 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": net/http: TLS handshake timeout
+E0626 23:12:38.812045    5055 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": net/http: TLS handshake timeout
+E0626 23:12:48.813084    5055 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": net/http: TLS handshake timeout
+Unable to connect to the server: net/http: TLS handshake timeout
+
+❌ Erreur lors de l’exécution de kubectl get svc -A -o json : Command failed: kubectl get svc -A -o json
+E0626 23:12:08.809508    5057 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": net/http: TLS handshake timeout
+E0626 23:12:18.810998    5057 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": net/http: TLS handshake timeout
+E0626 23:12:28.811738    5057 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": net/http: TLS handshake timeout
+E0626 23:12:38.812725    5057 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": net/http: TLS handshake timeout
+E0626 23:12:48.813120    5057 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": net/http: TLS handshake timeout
+Unable to connect to the server: net/http: TLS handshake timeout
+
+❌ Erreur lors de l’exécution de kubectl get svc -A -o json : Command failed: kubectl get svc -A -o json
+E0626 23:12:08.808470    5056 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": net/http: TLS handshake timeout
+E0626 23:12:18.809808    5056 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": net/http: TLS handshake timeout
+E0626 23:12:28.810700    5056 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": net/http: TLS handshake timeout
+E0626 23:12:38.812022    5056 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": net/http: TLS handshake timeout
+E0626 23:12:48.813077    5056 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": net/http: TLS handshake timeout
+Unable to connect to the server: net/http: TLS handshake timeout
+
+❌ Erreur lors de l’exécution de kubectl get nodes -o json : Command failed: kubectl get nodes -o json
+E0626 23:12:18.320176    5069 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": net/http: TLS handshake timeout
+E0626 23:12:28.320970    5069 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": net/http: TLS handshake timeout
+E0626 23:12:38.321211    5069 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": net/http: TLS handshake timeout
+E0626 23:12:48.321923    5069 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": net/http: TLS handshake timeout
+E0626 23:12:58.322904    5069 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": net/http: TLS handshake timeout
+Unable to connect to the server: net/http: TLS handshake timeout
+
+❌ Erreur lors de l’exécution de kubectl get nodes -o json : Command failed: kubectl get nodes -o json
+E0626 23:12:21.207064    5075 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": net/http: TLS handshake timeout
+E0626 23:12:31.207710    5075 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": net/http: TLS handshake timeout
+E0626 23:12:41.208433    5075 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": net/http: TLS handshake timeout
+E0626 23:12:51.209329    5075 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": net/http: TLS handshake timeout
+E0626 23:13:01.212052    5075 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": net/http: TLS handshake timeout
+Unable to connect to the server: net/http: TLS handshake timeout
+
+❌ Erreur lors de l’exécution de kubectl get nodes -o json : Command failed: kubectl get nodes -o json
+E0626 23:12:22.296809    5076 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": net/http: TLS handshake timeout
+E0626 23:12:32.297510    5076 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": net/http: TLS handshake timeout
+E0626 23:12:42.299516    5076 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": net/http: TLS handshake timeout
+E0626 23:12:52.300320    5076 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": net/http: TLS handshake timeout
+E0626 23:13:02.303939    5076 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": net/http: TLS handshake timeout
+Unable to connect to the server: net/http: TLS handshake timeout
+
+❌ Erreur lors de l’exécution de kubectl get nodes -o json : Command failed: kubectl get nodes -o json
+E0626 23:12:58.882796    5128 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": net/http: TLS handshake timeout
+E0626 23:13:08.885165    5128 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": net/http: TLS handshake timeout
+E0626 23:13:18.886682    5128 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": net/http: TLS handshake timeout
+E0626 23:13:28.888580    5128 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": net/http: TLS handshake timeout
+E0626 23:13:38.890743    5128 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": net/http: TLS handshake timeout
+Unable to connect to the server: net/http: TLS handshake timeout
+
+❌ Erreur lors de l’exécution de kubectl get nodes -o json : Command failed: kubectl get nodes -o json
+E0626 23:12:58.884319    5127 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": net/http: TLS handshake timeout
+E0626 23:13:08.886464    5127 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": net/http: TLS handshake timeout
+E0626 23:13:18.887284    5127 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": net/http: TLS handshake timeout
+E0626 23:13:28.888504    5127 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": net/http: TLS handshake timeout
+E0626 23:13:38.890776    5127 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": net/http: TLS handshake timeout
+Unable to connect to the server: net/http: TLS handshake timeout
+
+❌ Erreur lors de l’exécution de kubectl get nodes -o json : Command failed: kubectl get nodes -o json
+E0626 23:12:58.882800    5129 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": net/http: TLS handshake timeout
+E0626 23:13:08.884420    5129 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": net/http: TLS handshake timeout
+E0626 23:13:18.886309    5129 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": net/http: TLS handshake timeout
+E0626 23:13:28.888393    5129 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": net/http: TLS handshake timeout
+E0626 23:13:38.890663    5129 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": net/http: TLS handshake timeout
+Unable to connect to the server: net/http: TLS handshake timeout
+
+❌ Erreur lors de l’exécution de kubectl get namespaces -o json : Command failed: kubectl get namespaces -o json
+E0626 23:13:08.388130    5144 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": net/http: TLS handshake timeout
+E0626 23:13:18.389190    5144 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": net/http: TLS handshake timeout
+E0626 23:13:28.390559    5144 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": net/http: TLS handshake timeout
+E0626 23:13:38.394526    5144 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": net/http: TLS handshake timeout
+E0626 23:13:48.396510    5144 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": net/http: TLS handshake timeout
+Unable to connect to the server: net/http: TLS handshake timeout
+
+❌ Erreur lors de l’exécution de kubectl get namespaces -o json : Command failed: kubectl get namespaces -o json
+E0626 23:13:11.276743    5147 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": net/http: TLS handshake timeout
+E0626 23:13:21.278382    5147 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": net/http: TLS handshake timeout
+E0626 23:13:31.280163    5147 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": net/http: TLS handshake timeout
+E0626 23:13:41.282043    5147 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": net/http: TLS handshake timeout
+E0626 23:13:51.283199    5147 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": net/http: TLS handshake timeout
+Unable to connect to the server: net/http: TLS handshake timeout
+
+❌ Erreur lors de l’exécution de kubectl get namespaces -o json : Command failed: kubectl get namespaces -o json
+E0626 23:13:12.372108    5150 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": net/http: TLS handshake timeout
+E0626 23:13:22.373390    5150 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": net/http: TLS handshake timeout
+E0626 23:13:32.374835    5150 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": net/http: TLS handshake timeout
+E0626 23:13:42.376197    5150 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": net/http: TLS handshake timeout
+E0626 23:13:52.378395    5150 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": net/http: TLS handshake timeout
+Unable to connect to the server: net/http: TLS handshake timeout
+
+❌ Erreur lors de l’exécution de kubectl get namespaces -o json : Command failed: kubectl get namespaces -o json
+E0626 23:13:48.959516    5230 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": net/http: TLS handshake timeout
+E0626 23:13:58.962387    5230 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": net/http: TLS handshake timeout
+E0626 23:14:08.963164    5230 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": net/http: TLS handshake timeout
+E0626 23:14:18.964779    5230 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": net/http: TLS handshake timeout
+E0626 23:14:28.966451    5230 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": net/http: TLS handshake timeout
+Unable to connect to the server: net/http: TLS handshake timeout
+
+❌ Erreur lors de l’exécution de kubectl get namespaces -o json : Command failed: kubectl get namespaces -o json
+E0626 23:13:48.960966    5229 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": net/http: TLS handshake timeout
+E0626 23:13:58.962022    5229 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": net/http: TLS handshake timeout
+E0626 23:14:08.963237    5229 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": net/http: TLS handshake timeout
+E0626 23:14:18.965189    5229 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": net/http: TLS handshake timeout
+E0626 23:14:28.967279    5229 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": net/http: TLS handshake timeout
+Unable to connect to the server: net/http: TLS handshake timeout
+
+❌ Erreur lors de l’exécution de kubectl get namespaces -o json : Command failed: kubectl get namespaces -o json
+E0626 23:13:48.960725    5231 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": net/http: TLS handshake timeout
+E0626 23:13:58.962023    5231 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": net/http: TLS handshake timeout
+E0626 23:14:08.963149    5231 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": net/http: TLS handshake timeout
+E0626 23:14:18.966121    5231 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": net/http: TLS handshake timeout
+E0626 23:14:28.967617    5231 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": net/http: TLS handshake timeout
+Unable to connect to the server: net/http: TLS handshake timeout
+
+❌ Erreur lors de l’exécution de kubectl get statefulsets -A -o json : Command failed: kubectl get statefulsets -A -o json
+E0626 23:13:58.464807    5267 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": net/http: TLS handshake timeout
+E0626 23:14:08.466615    5267 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": net/http: TLS handshake timeout
+E0626 23:14:18.468268    5267 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": net/http: TLS handshake timeout
+E0626 23:14:28.470104    5267 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": net/http: TLS handshake timeout
+E0626 23:14:38.470957    5267 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": net/http: TLS handshake timeout
+Unable to connect to the server: net/http: TLS handshake timeout
+
+❌ Erreur lors de l’exécution de kubectl get statefulsets -A -o json : Command failed: kubectl get statefulsets -A -o json
+E0626 23:14:01.347504    5272 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": net/http: TLS handshake timeout
+E0626 23:14:11.348871    5272 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": net/http: TLS handshake timeout
+E0626 23:14:21.349914    5272 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": net/http: TLS handshake timeout
+E0626 23:14:31.351214    5272 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": net/http: TLS handshake timeout
+E0626 23:14:41.352357    5272 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": net/http: TLS handshake timeout
+Unable to connect to the server: net/http: TLS handshake timeout
+
+❌ Erreur lors de l’exécution de kubectl get statefulsets -A -o json : Command failed: kubectl get statefulsets -A -o json
+E0626 23:14:02.444639    5273 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": net/http: TLS handshake timeout
+E0626 23:14:12.446271    5273 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": net/http: TLS handshake timeout
+E0626 23:14:22.447829    5273 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": net/http: TLS handshake timeout
+E0626 23:14:32.448848    5273 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": net/http: TLS handshake timeout
+E0626 23:14:42.449744    5273 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": net/http: TLS handshake timeout
+Unable to connect to the server: net/http: TLS handshake timeout
+
+❌ Erreur lors de l’exécution de kubectl get statefulsets -A -o json : Command failed: kubectl get statefulsets -A -o json
+E0626 23:14:39.045960    5327 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": net/http: TLS handshake timeout
+E0626 23:14:49.047705    5327 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": net/http: TLS handshake timeout
+E0626 23:14:59.048821    5327 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": net/http: TLS handshake timeout
+E0626 23:15:09.050202    5327 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": net/http: TLS handshake timeout
+E0626 23:15:19.052080    5327 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": net/http: TLS handshake timeout
+Unable to connect to the server: net/http: TLS handshake timeout
+
+❌ Erreur lors de l’exécution de kubectl get statefulsets -A -o json : Command failed: kubectl get statefulsets -A -o json
+E0626 23:14:39.045973    5329 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": net/http: TLS handshake timeout
+E0626 23:14:49.046777    5329 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": net/http: TLS handshake timeout
+E0626 23:14:59.048456    5329 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": net/http: TLS handshake timeout
+E0626 23:15:09.050220    5329 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": net/http: TLS handshake timeout
+E0626 23:15:19.052080    5329 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": net/http: TLS handshake timeout
+Unable to connect to the server: net/http: TLS handshake timeout
+
+❌ Erreur lors de l’exécution de kubectl get statefulsets -A -o json : Command failed: kubectl get statefulsets -A -o json
+E0626 23:14:39.045946    5328 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": net/http: TLS handshake timeout
+E0626 23:14:49.046833    5328 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": net/http: TLS handshake timeout
+E0626 23:14:59.049021    5328 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": net/http: TLS handshake timeout
+E0626 23:15:09.050321    5328 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": net/http: TLS handshake timeout
+E0626 23:15:19.052492    5328 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": net/http: TLS handshake timeout
+Unable to connect to the server: net/http: TLS handshake timeout
+
+❌ Erreur lors de l’exécution de kubectl get replicasets -A -o json : Command failed: kubectl get replicasets -A -o json
+E0626 23:14:48.536373    5343 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": net/http: TLS handshake timeout
+E0626 23:14:58.538309    5343 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": net/http: TLS handshake timeout
+E0626 23:15:08.540050    5343 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": net/http: TLS handshake timeout
+E0626 23:15:18.541330    5343 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": net/http: TLS handshake timeout
+E0626 23:15:28.543622    5343 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": net/http: TLS handshake timeout
+Unable to connect to the server: net/http: TLS handshake timeout
+
+❌ Erreur lors de l’exécution de kubectl get replicasets -A -o json : Command failed: kubectl get replicasets -A -o json
+E0626 23:14:51.429333    5347 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": net/http: TLS handshake timeout
+E0626 23:15:01.430134    5347 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": net/http: TLS handshake timeout
+E0626 23:15:11.430844    5347 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": net/http: TLS handshake timeout
+E0626 23:15:21.431929    5347 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": net/http: TLS handshake timeout
+E0626 23:15:31.432947    5347 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": net/http: TLS handshake timeout
+Unable to connect to the server: net/http: TLS handshake timeout
+
+❌ Erreur lors de l’exécution de kubectl get replicasets -A -o json : Command failed: kubectl get replicasets -A -o json
+E0626 23:14:52.535297    5350 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": net/http: TLS handshake timeout
+E0626 23:15:02.536792    5350 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": net/http: TLS handshake timeout
+E0626 23:15:12.539206    5350 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": net/http: TLS handshake timeout
+E0626 23:15:22.541270    5350 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": net/http: TLS handshake timeout
+E0626 23:15:32.542824    5350 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": net/http: TLS handshake timeout
+Unable to connect to the server: net/http: TLS handshake timeout
+
+❌ Erreur lors de l’exécution de kubectl get replicasets -A -o json : Command failed: kubectl get replicasets -A -o json
+E0626 23:15:29.127144    5404 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": net/http: TLS handshake timeout
+E0626 23:15:39.128613    5404 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": net/http: TLS handshake timeout
+E0626 23:15:49.130368    5404 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": net/http: TLS handshake timeout
+E0626 23:15:59.131509    5404 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": net/http: TLS handshake timeout
+E0626 23:16:09.133836    5404 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": net/http: TLS handshake timeout
+Unable to connect to the server: net/http: TLS handshake timeout
+
+❌ Erreur lors de l’exécution de kubectl get replicasets -A -o json : Command failed: kubectl get replicasets -A -o json
+E0626 23:15:29.127068    5405 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": net/http: TLS handshake timeout
+E0626 23:15:39.128777    5405 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": net/http: TLS handshake timeout
+E0626 23:15:49.130519    5405 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": net/http: TLS handshake timeout
+E0626 23:15:59.131504    5405 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": net/http: TLS handshake timeout
+E0626 23:16:09.133986    5405 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": net/http: TLS handshake timeout
+Unable to connect to the server: net/http: TLS handshake timeout
+
+❌ Erreur lors de l’exécution de kubectl get replicasets -A -o json : Command failed: kubectl get replicasets -A -o json
+E0626 23:15:29.124945    5403 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": net/http: TLS handshake timeout
+E0626 23:15:39.128880    5403 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": net/http: TLS handshake timeout
+E0626 23:15:49.130470    5403 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": net/http: TLS handshake timeout
+E0626 23:15:59.131518    5403 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": net/http: TLS handshake timeout
+E0626 23:16:09.133733    5403 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": net/http: TLS handshake timeout
+Unable to connect to the server: net/http: TLS handshake timeout
+
+❌ Erreur lors de l’exécution de kubectl get daemonsets -A -o json : Command failed: kubectl get daemonsets -A -o json
+E0626 23:15:38.612476    5420 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": net/http: TLS handshake timeout
+E0626 23:15:48.613430    5420 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": net/http: TLS handshake timeout
+E0626 23:15:58.615135    5420 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": net/http: TLS handshake timeout
+E0626 23:16:08.617029    5420 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": net/http: TLS handshake timeout
+E0626 23:16:18.619294    5420 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": net/http: TLS handshake timeout
+Unable to connect to the server: net/http: TLS handshake timeout
+
+❌ Erreur lors de l’exécution de kubectl get daemonsets -A -o json : Command failed: kubectl get daemonsets -A -o json
+E0626 23:15:41.497201    5423 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": net/http: TLS handshake timeout
+E0626 23:15:51.498368    5423 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": net/http: TLS handshake timeout
+E0626 23:16:01.500121    5423 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": net/http: TLS handshake timeout
+E0626 23:16:11.502364    5423 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": net/http: TLS handshake timeout
+E0626 23:16:21.504713    5423 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": net/http: TLS handshake timeout
+Unable to connect to the server: net/http: TLS handshake timeout
+
+❌ Erreur lors de l’exécution de kubectl get daemonsets -A -o json : Command failed: kubectl get daemonsets -A -o json
+E0626 23:15:42.608755    5426 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": net/http: TLS handshake timeout
+E0626 23:15:52.610167    5426 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": net/http: TLS handshake timeout
+E0626 23:16:02.611943    5426 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": net/http: TLS handshake timeout
+E0626 23:16:12.613837    5426 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": net/http: TLS handshake timeout
+E0626 23:16:22.616004    5426 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": net/http: TLS handshake timeout
+Unable to connect to the server: net/http: TLS handshake timeout
+
+❌ Erreur lors de l’exécution de kubectl get daemonsets -A -o json : Command failed: kubectl get daemonsets -A -o json
+E0626 23:16:19.207691    5488 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": net/http: TLS handshake timeout
+E0626 23:16:29.209785    5488 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": net/http: TLS handshake timeout
+E0626 23:16:39.211697    5488 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": net/http: TLS handshake timeout
+E0626 23:16:49.214106    5488 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": net/http: TLS handshake timeout
+E0626 23:16:59.216451    5488 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": net/http: TLS handshake timeout
+Unable to connect to the server: net/http: TLS handshake timeout
+
+❌ Erreur lors de l’exécution de kubectl get daemonsets -A -o json : Command failed: kubectl get daemonsets -A -o json
+E0626 23:16:19.210452    5489 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": net/http: TLS handshake timeout
+E0626 23:16:29.212043    5489 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": net/http: TLS handshake timeout
+E0626 23:16:39.212945    5489 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": net/http: TLS handshake timeout
+E0626 23:16:49.214108    5489 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": net/http: TLS handshake timeout
+E0626 23:16:59.216525    5489 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": net/http: TLS handshake timeout
+Unable to connect to the server: net/http: TLS handshake timeout
+
+❌ Erreur lors de l’exécution de kubectl get daemonsets -A -o json : Command failed: kubectl get daemonsets -A -o json
+E0626 23:16:19.207782    5490 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": net/http: TLS handshake timeout
+E0626 23:16:29.209781    5490 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": net/http: TLS handshake timeout
+E0626 23:16:39.211873    5490 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": net/http: TLS handshake timeout
+E0626 23:16:49.214134    5490 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": net/http: TLS handshake timeout
+E0626 23:16:59.216684    5490 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": net/http: TLS handshake timeout
+Unable to connect to the server: net/http: TLS handshake timeout
+
+❌ Erreur lors de l’exécution de kubectl get pods -A -o json : Command failed: kubectl get pods -A -o json
+E0626 23:16:28.689547    5507 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": net/http: TLS handshake timeout
+E0626 23:16:38.691355    5507 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": net/http: TLS handshake timeout
+E0626 23:16:48.693156    5507 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": net/http: TLS handshake timeout
+E0626 23:16:58.694834    5507 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": net/http: TLS handshake timeout
+E0626 23:17:08.696185    5507 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": net/http: TLS handshake timeout
+Unable to connect to the server: net/http: TLS handshake timeout
+
+❌ Erreur lors de l’exécution de kubectl get pods -A -o json : Command failed: kubectl get pods -A -o json
+E0626 23:16:31.573660    5512 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": net/http: TLS handshake timeout
+E0626 23:16:41.574736    5512 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": net/http: TLS handshake timeout
+E0626 23:16:51.576317    5512 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": net/http: TLS handshake timeout
+E0626 23:17:01.578229    5512 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": net/http: TLS handshake timeout
+E0626 23:17:11.579901    5512 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": net/http: TLS handshake timeout
+Unable to connect to the server: net/http: TLS handshake timeout
+
+Erreur namespaces: Command failed: kubectl get namespaces -o json
+E0626 23:17:09.295069    5580 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": net/http: TLS handshake timeout
+E0626 23:17:19.296103    5580 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": net/http: TLS handshake timeout
+E0626 23:17:29.296852    5580 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": net/http: TLS handshake timeout
+E0626 23:17:39.299422    5580 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": net/http: TLS handshake timeout
+E0626 23:17:49.301096    5580 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": net/http: TLS handshake timeout
+Unable to connect to the server: net/http: TLS handshake timeout
+
+❌ Erreur lors de l’exécution de kubectl get pods -A -o json : Command failed: kubectl get pods -A -o json
+E0626 23:17:09.296381    5581 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": net/http: TLS handshake timeout
+E0626 23:17:19.297243    5581 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": net/http: TLS handshake timeout
+E0626 23:17:29.298584    5581 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": net/http: TLS handshake timeout
+E0626 23:17:39.299963    5581 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": net/http: TLS handshake timeout
+E0626 23:17:49.300940    5581 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": net/http: TLS handshake timeout
+Unable to connect to the server: net/http: TLS handshake timeout
+
+Erreur namespaces: Command failed: kubectl get namespaces -o json
+E0626 23:17:09.295085    5579 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": net/http: TLS handshake timeout
+E0626 23:17:19.296100    5579 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": net/http: TLS handshake timeout
+E0626 23:17:29.296890    5579 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": net/http: TLS handshake timeout
+E0626 23:17:39.299437    5579 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": net/http: TLS handshake timeout
+E0626 23:17:49.300771    5579 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": net/http: TLS handshake timeout
+Unable to connect to the server: net/http: TLS handshake timeout
+
+❌ Erreur lors de l’exécution de kubectl get deployments -A -o json : Command failed: kubectl get deployments -A -o json
+E0626 23:17:18.764794    5595 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": net/http: TLS handshake timeout
+E0626 23:17:28.766409    5595 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": net/http: TLS handshake timeout
+E0626 23:17:38.767188    5595 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": net/http: TLS handshake timeout
+E0626 23:17:48.767928    5595 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": net/http: TLS handshake timeout
+E0626 23:17:58.769864    5595 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": net/http: TLS handshake timeout
+Unable to connect to the server: net/http: TLS handshake timeout
+
+❌ Erreur lors de l’exécution de kubectl get deployments -A -o json : Command failed: kubectl get deployments -A -o json
+E0626 23:17:21.650115    5599 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": net/http: TLS handshake timeout
+E0626 23:17:31.650844    5599 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": net/http: TLS handshake timeout
+E0626 23:17:41.651526    5599 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": net/http: TLS handshake timeout
+E0626 23:17:51.653021    5599 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": net/http: TLS handshake timeout
+E0626 23:18:01.654431    5599 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": net/http: TLS handshake timeout
+Unable to connect to the server: net/http: TLS handshake timeout
+
+❌ Erreur lors de l’exécution de kubectl get pods -A -o json : Command failed: kubectl get pods -A -o json
+E0626 23:17:22.803405    5602 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": net/http: TLS handshake timeout
+E0626 23:17:32.805462    5602 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": net/http: TLS handshake timeout
+E0626 23:17:42.806593    5602 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": net/http: TLS handshake timeout
+E0626 23:17:52.808242    5602 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": net/http: TLS handshake timeout
+E0626 23:18:02.809414    5602 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": net/http: TLS handshake timeout
+Unable to connect to the server: net/http: TLS handshake timeout
+
+❌ Erreur lors de l’exécution de kubectl get pods -A -o json : Command failed: kubectl get pods -A -o json
+E0626 23:17:59.373012    5655 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": net/http: TLS handshake timeout
+E0626 23:18:09.374518    5655 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": net/http: TLS handshake timeout
+E0626 23:18:19.375653    5655 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": net/http: TLS handshake timeout
+E0626 23:18:29.376889    5655 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": net/http: TLS handshake timeout
+E0626 23:18:39.378113    5655 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": net/http: TLS handshake timeout
+Unable to connect to the server: net/http: TLS handshake timeout
+
+❌ Erreur lors de l’exécution de kubectl get pods -A -o json : Command failed: kubectl get pods -A -o json
+E0626 23:17:59.372998    5654 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": net/http: TLS handshake timeout
+E0626 23:18:09.374533    5654 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": net/http: TLS handshake timeout
+E0626 23:18:19.375711    5654 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": net/http: TLS handshake timeout
+E0626 23:18:29.376875    5654 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": net/http: TLS handshake timeout
+E0626 23:18:39.378133    5654 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": net/http: TLS handshake timeout
+Unable to connect to the server: net/http: TLS handshake timeout
+
+❌ Erreur lors de l’exécution de kubectl get deployments -A -o json : Command failed: kubectl get deployments -A -o json
+E0626 23:17:59.373466    5653 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": net/http: TLS handshake timeout
+E0626 23:18:09.374899    5653 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": net/http: TLS handshake timeout
+E0626 23:18:19.375676    5653 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": net/http: TLS handshake timeout
+E0626 23:18:29.377011    5653 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": net/http: TLS handshake timeout
+E0626 23:18:39.378097    5653 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": net/http: TLS handshake timeout
+Unable to connect to the server: net/http: TLS handshake timeout
+
+❌ Erreur lors de l’exécution de kubectl get svc -A -o json : Command failed: kubectl get svc -A -o json
+E0626 23:18:08.840200    5673 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": net/http: TLS handshake timeout
+E0626 23:18:18.841950    5673 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": net/http: TLS handshake timeout
+E0626 23:18:28.843165    5673 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": net/http: TLS handshake timeout
+E0626 23:18:38.844100    5673 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": net/http: TLS handshake timeout
+E0626 23:18:48.845374    5673 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": net/http: TLS handshake timeout
+Unable to connect to the server: net/http: TLS handshake timeout
+
+❌ Erreur lors de l’exécution de kubectl get svc -A -o json : Command failed: kubectl get svc -A -o json
+E0626 23:18:11.721980    5678 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": net/http: TLS handshake timeout
+E0626 23:18:21.723750    5678 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": net/http: TLS handshake timeout
+E0626 23:18:31.725035    5678 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": net/http: TLS handshake timeout
+E0626 23:18:41.726327    5678 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": net/http: TLS handshake timeout
+E0626 23:18:51.727802    5678 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": net/http: TLS handshake timeout
+Unable to connect to the server: net/http: TLS handshake timeout
+
+❌ Erreur lors de l’exécution de kubectl get deployments -A -o json : Command failed: kubectl get deployments -A -o json
+E0626 23:18:12.872648    5679 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": net/http: TLS handshake timeout
+E0626 23:18:22.874565    5679 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": net/http: TLS handshake timeout
+E0626 23:18:32.875993    5679 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": net/http: TLS handshake timeout
+E0626 23:18:42.879163    5679 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": net/http: TLS handshake timeout
+E0626 23:18:52.882880    5679 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": net/http: TLS handshake timeout
+Unable to connect to the server: net/http: TLS handshake timeout
+
+❌ Erreur lors de l’exécution de kubectl get deployments -A -o json : Command failed: kubectl get deployments -A -o json
+E0626 23:18:49.443674    5730 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": net/http: TLS handshake timeout
+E0626 23:18:59.444590    5730 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": net/http: TLS handshake timeout
+E0626 23:19:09.445629    5730 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": net/http: TLS handshake timeout
+E0626 23:19:19.446931    5730 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": net/http: TLS handshake timeout
+E0626 23:19:29.447774    5730 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": net/http: TLS handshake timeout
+Unable to connect to the server: net/http: TLS handshake timeout
+
+❌ Erreur lors de l’exécution de kubectl get deployments -A -o json : Command failed: kubectl get deployments -A -o json
+E0626 23:18:49.441737    5731 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": net/http: TLS handshake timeout
+E0626 23:18:59.442860    5731 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": net/http: TLS handshake timeout
+E0626 23:19:09.447429    5731 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": net/http: TLS handshake timeout
+E0626 23:19:19.450114    5731 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": net/http: TLS handshake timeout
+E0626 23:19:29.450997    5731 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": net/http: TLS handshake timeout
+Unable to connect to the server: net/http: TLS handshake timeout
+
+❌ Erreur lors de l’exécution de kubectl get svc -A -o json : Command failed: kubectl get svc -A -o json
+E0626 23:18:49.442524    5732 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": net/http: TLS handshake timeout
+E0626 23:18:59.443248    5732 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": net/http: TLS handshake timeout
+E0626 23:19:09.444528    5732 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": net/http: TLS handshake timeout
+E0626 23:19:19.446416    5732 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": net/http: TLS handshake timeout
+E0626 23:19:29.447731    5732 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": net/http: TLS handshake timeout
+Unable to connect to the server: net/http: TLS handshake timeout
+
+❌ Erreur lors de l’exécution de kubectl get nodes -o json : Command failed: kubectl get nodes -o json
+E0626 23:18:58.911991    5749 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": net/http: TLS handshake timeout
+E0626 23:19:08.913244    5749 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": net/http: TLS handshake timeout
+E0626 23:19:18.914923    5749 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": net/http: TLS handshake timeout
+E0626 23:19:28.916210    5749 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": net/http: TLS handshake timeout
+E0626 23:19:38.917661    5749 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": net/http: TLS handshake timeout
+Unable to connect to the server: net/http: TLS handshake timeout
+
+❌ Erreur lors de l’exécution de kubectl get nodes -o json : Command failed: kubectl get nodes -o json
+E0626 23:19:01.794818    5752 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": net/http: TLS handshake timeout
+E0626 23:19:11.798066    5752 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": net/http: TLS handshake timeout
+E0626 23:19:21.800062    5752 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": net/http: TLS handshake timeout
+E0626 23:19:31.801413    5752 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": net/http: TLS handshake timeout
+E0626 23:19:41.802590    5752 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": net/http: TLS handshake timeout
+Unable to connect to the server: net/http: TLS handshake timeout
+
+❌ Erreur lors de l’exécution de kubectl get svc -A -o json : Command failed: kubectl get svc -A -o json
+E0626 23:19:02.963845    5755 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": net/http: TLS handshake timeout
+E0626 23:19:12.965925    5755 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": net/http: TLS handshake timeout
+E0626 23:19:22.967396    5755 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": net/http: TLS handshake timeout
+E0626 23:19:32.969706    5755 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": net/http: TLS handshake timeout
+E0626 23:19:42.971876    5755 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": net/http: TLS handshake timeout
+Unable to connect to the server: net/http: TLS handshake timeout
+
+❌ Erreur lors de l’exécution de kubectl get svc -A -o json : Command failed: kubectl get svc -A -o json
+E0626 23:19:39.523707    5807 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": net/http: TLS handshake timeout
+E0626 23:19:53.618117    5807 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": dial tcp 127.0.0.1:49338: connect: connection refused - error from a previous attempt: EOF
+E0626 23:19:53.619266    5807 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": dial tcp 127.0.0.1:49338: connect: connection refused
+E0626 23:19:53.619978    5807 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": dial tcp 127.0.0.1:49338: connect: connection refused
+E0626 23:19:53.620903    5807 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": dial tcp 127.0.0.1:49338: connect: connection refused
+The connection to the server 127.0.0.1:49338 was refused - did you specify the right host or port?
+
+❌ Erreur lors de l’exécution de kubectl get namespaces -o json : Command failed: kubectl get namespaces -o json
+E0626 23:19:53.618258    6088 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": dial tcp 127.0.0.1:49338: connect: connection refused - error from a previous attempt: EOF
+E0626 23:19:53.619722    6088 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": dial tcp 127.0.0.1:49338: connect: connection refused
+E0626 23:19:53.620441    6088 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": dial tcp 127.0.0.1:49338: connect: connection refused
+E0626 23:19:53.621452    6088 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": dial tcp 127.0.0.1:49338: connect: connection refused
+E0626 23:19:53.621946    6088 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": dial tcp 127.0.0.1:49338: connect: connection refused
+The connection to the server 127.0.0.1:49338 was refused - did you specify the right host or port?
+
+❌ Erreur lors de l’exécution de kubectl get nodes -o json : Command failed: kubectl get nodes -o json
+E0626 23:19:53.618014    6089 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": dial tcp 127.0.0.1:49338: connect: connection refused - error from a previous attempt: EOF
+E0626 23:19:53.619874    6089 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": dial tcp 127.0.0.1:49338: connect: connection refused
+E0626 23:19:53.620293    6089 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": dial tcp 127.0.0.1:49338: connect: connection refused
+E0626 23:19:53.621441    6089 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": dial tcp 127.0.0.1:49338: connect: connection refused
+E0626 23:19:53.621946    6089 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": dial tcp 127.0.0.1:49338: connect: connection refused
+The connection to the server 127.0.0.1:49338 was refused - did you specify the right host or port?
+
+❌ Erreur lors de l’exécution de kubectl get nodes -o json : Command failed: kubectl get nodes -o json
+E0626 23:19:39.523737    5809 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": net/http: TLS handshake timeout
+E0626 23:19:53.618107    5809 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": dial tcp 127.0.0.1:49338: connect: connection refused - error from a previous attempt: EOF
+E0626 23:19:53.618878    5809 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": dial tcp 127.0.0.1:49338: connect: connection refused
+E0626 23:19:53.620050    5809 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": dial tcp 127.0.0.1:49338: connect: connection refused
+E0626 23:19:53.620790    5809 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": dial tcp 127.0.0.1:49338: connect: connection refused
+The connection to the server 127.0.0.1:49338 was refused - did you specify the right host or port?
+
+❌ Erreur lors de l’exécution de kubectl get namespaces -o json : Command failed: kubectl get namespaces -o json
+E0626 23:19:53.618038    6082 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": dial tcp 127.0.0.1:49338: connect: connection refused - error from a previous attempt: EOF
+E0626 23:19:53.619004    6082 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": dial tcp 127.0.0.1:49338: connect: connection refused
+E0626 23:19:53.619995    6082 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": dial tcp 127.0.0.1:49338: connect: connection refused
+E0626 23:19:53.620688    6082 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": dial tcp 127.0.0.1:49338: connect: connection refused
+E0626 23:19:53.621642    6082 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": dial tcp 127.0.0.1:49338: connect: connection refused
+The connection to the server 127.0.0.1:49338 was refused - did you specify the right host or port?
+
+❌ Erreur lors de l’exécution de kubectl get svc -A -o json : Command failed: kubectl get svc -A -o json
+E0626 23:19:39.523589    5808 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": net/http: TLS handshake timeout
+E0626 23:19:53.617963    5808 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": dial tcp 127.0.0.1:49338: connect: connection refused - error from a previous attempt: EOF
+E0626 23:19:53.618998    5808 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": dial tcp 127.0.0.1:49338: connect: connection refused
+E0626 23:19:53.619646    5808 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": dial tcp 127.0.0.1:49338: connect: connection refused
+E0626 23:19:53.620654    5808 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": dial tcp 127.0.0.1:49338: connect: connection refused
+The connection to the server 127.0.0.1:49338 was refused - did you specify the right host or port?
+
+❌ Erreur lors de l’exécution de kubectl get statefulsets -A -o json : Command failed: kubectl get statefulsets -A -o json
+E0626 23:19:53.701595    6135 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": dial tcp 127.0.0.1:49338: connect: connection refused
+E0626 23:19:53.702083    6135 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": dial tcp 127.0.0.1:49338: connect: connection refused
+E0626 23:19:53.703257    6135 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": dial tcp 127.0.0.1:49338: connect: connection refused
+E0626 23:19:53.703568    6135 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": dial tcp 127.0.0.1:49338: connect: connection refused
+E0626 23:19:53.704667    6135 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": dial tcp 127.0.0.1:49338: connect: connection refused
+The connection to the server 127.0.0.1:49338 was refused - did you specify the right host or port?
+
+❌ Erreur lors de l’exécution de kubectl get statefulsets -A -o json : Command failed: kubectl get statefulsets -A -o json
+E0626 23:19:53.702301    6132 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": dial tcp 127.0.0.1:49338: connect: connection refused
+E0626 23:19:53.702590    6132 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": dial tcp 127.0.0.1:49338: connect: connection refused
+E0626 23:19:53.703793    6132 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": dial tcp 127.0.0.1:49338: connect: connection refused
+E0626 23:19:53.704097    6132 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": dial tcp 127.0.0.1:49338: connect: connection refused
+E0626 23:19:53.705528    6132 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": dial tcp 127.0.0.1:49338: connect: connection refused
+The connection to the server 127.0.0.1:49338 was refused - did you specify the right host or port?
+
+❌ Erreur lors de l’exécution de kubectl get namespaces -o json : Command failed: kubectl get namespaces -o json
+E0626 23:19:53.701774    6133 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": dial tcp 127.0.0.1:49338: connect: connection refused
+E0626 23:19:53.702154    6133 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": dial tcp 127.0.0.1:49338: connect: connection refused
+E0626 23:19:53.703272    6133 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": dial tcp 127.0.0.1:49338: connect: connection refused
+E0626 23:19:53.703545    6133 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": dial tcp 127.0.0.1:49338: connect: connection refused
+E0626 23:19:53.704702    6133 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": dial tcp 127.0.0.1:49338: connect: connection refused
+The connection to the server 127.0.0.1:49338 was refused - did you specify the right host or port?
+
+❌ Erreur lors de l’exécution de kubectl get nodes -o json : Command failed: kubectl get nodes -o json
+E0626 23:19:53.703417    6131 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": dial tcp 127.0.0.1:49338: connect: connection refused
+E0626 23:19:53.703743    6131 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": dial tcp 127.0.0.1:49338: connect: connection refused
+E0626 23:19:53.705004    6131 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": dial tcp 127.0.0.1:49338: connect: connection refused
+E0626 23:19:53.706860    6131 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": dial tcp 127.0.0.1:49338: connect: connection refused
+E0626 23:19:53.707876    6131 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": dial tcp 127.0.0.1:49338: connect: connection refused
+The connection to the server 127.0.0.1:49338 was refused - did you specify the right host or port?
+
+❌ Erreur lors de l’exécution de kubectl get nodes -o json : Command failed: kubectl get nodes -o json
+E0626 23:19:53.706170    6136 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": dial tcp 127.0.0.1:49338: connect: connection refused
+E0626 23:19:53.707630    6136 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": dial tcp 127.0.0.1:49338: connect: connection refused
+E0626 23:19:53.707975    6136 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": dial tcp 127.0.0.1:49338: connect: connection refused
+E0626 23:19:53.710854    6136 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": dial tcp 127.0.0.1:49338: connect: connection refused
+E0626 23:19:53.711159    6136 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": dial tcp 127.0.0.1:49338: connect: connection refused
+The connection to the server 127.0.0.1:49338 was refused - did you specify the right host or port?
+
+❌ Erreur lors de l’exécution de kubectl get namespaces -o json : Command failed: kubectl get namespaces -o json
+E0626 23:19:53.708172    6134 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": dial tcp 127.0.0.1:49338: connect: connection refused
+E0626 23:19:53.708734    6134 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": dial tcp 127.0.0.1:49338: connect: connection refused
+E0626 23:19:53.710481    6134 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": dial tcp 127.0.0.1:49338: connect: connection refused
+E0626 23:19:53.710842    6134 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": dial tcp 127.0.0.1:49338: connect: connection refused
+E0626 23:19:53.712655    6134 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": dial tcp 127.0.0.1:49338: connect: connection refused
+The connection to the server 127.0.0.1:49338 was refused - did you specify the right host or port?
+
+❌ Erreur lors de l’exécution de kubectl get statefulsets -A -o json : Command failed: kubectl get statefulsets -A -o json
+E0626 23:19:53.793274    6139 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": dial tcp 127.0.0.1:49338: connect: connection refused
+E0626 23:19:53.793705    6139 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": dial tcp 127.0.0.1:49338: connect: connection refused
+E0626 23:19:53.794941    6139 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": dial tcp 127.0.0.1:49338: connect: connection refused
+E0626 23:19:53.795231    6139 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": dial tcp 127.0.0.1:49338: connect: connection refused
+E0626 23:19:53.796446    6139 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": dial tcp 127.0.0.1:49338: connect: connection refused
+The connection to the server 127.0.0.1:49338 was refused - did you specify the right host or port?
+
+❌ Erreur lors de l’exécution de kubectl get replicasets -A -o json : Command failed: kubectl get replicasets -A -o json
+E0626 23:19:53.796007    6137 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": dial tcp 127.0.0.1:49338: connect: connection refused
+E0626 23:19:53.797025    6137 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": dial tcp 127.0.0.1:49338: connect: connection refused
+E0626 23:19:53.797905    6137 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": dial tcp 127.0.0.1:49338: connect: connection refused
+E0626 23:19:53.798988    6137 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": dial tcp 127.0.0.1:49338: connect: connection refused
+E0626 23:19:53.799207    6137 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": dial tcp 127.0.0.1:49338: connect: connection refused
+The connection to the server 127.0.0.1:49338 was refused - did you specify the right host or port?
+
+❌ Erreur lors de l’exécution de kubectl get namespaces -o json : Command failed: kubectl get namespaces -o json
+E0626 23:19:53.797935    6141 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": dial tcp 127.0.0.1:49338: connect: connection refused
+E0626 23:19:53.798500    6141 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": dial tcp 127.0.0.1:49338: connect: connection refused
+E0626 23:19:53.800185    6141 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": dial tcp 127.0.0.1:49338: connect: connection refused
+E0626 23:19:53.800465    6141 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": dial tcp 127.0.0.1:49338: connect: connection refused
+E0626 23:19:53.802260    6141 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": dial tcp 127.0.0.1:49338: connect: connection refused
+The connection to the server 127.0.0.1:49338 was refused - did you specify the right host or port?
+
+❌ Erreur lors de l’exécution de kubectl get namespaces -o json : Command failed: kubectl get namespaces -o json
+E0626 23:19:53.800420    6140 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": dial tcp 127.0.0.1:49338: connect: connection refused
+E0626 23:19:53.802095    6140 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": dial tcp 127.0.0.1:49338: connect: connection refused
+E0626 23:19:53.802487    6140 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": dial tcp 127.0.0.1:49338: connect: connection refused
+E0626 23:19:53.803546    6140 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": dial tcp 127.0.0.1:49338: connect: connection refused
+E0626 23:19:53.803858    6140 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": dial tcp 127.0.0.1:49338: connect: connection refused
+The connection to the server 127.0.0.1:49338 was refused - did you specify the right host or port?
+
+❌ Erreur lors de l’exécution de kubectl get statefulsets -A -o json : Command failed: kubectl get statefulsets -A -o json
+E0626 23:19:53.800834    6142 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": dial tcp 127.0.0.1:49338: connect: connection refused
+E0626 23:19:53.803138    6142 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": dial tcp 127.0.0.1:49338: connect: connection refused
+E0626 23:19:53.804033    6142 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": dial tcp 127.0.0.1:49338: connect: connection refused
+E0626 23:19:53.804492    6142 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": dial tcp 127.0.0.1:49338: connect: connection refused
+E0626 23:19:53.805666    6142 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": dial tcp 127.0.0.1:49338: connect: connection refused
+The connection to the server 127.0.0.1:49338 was refused - did you specify the right host or port?
+
+❌ Erreur lors de l’exécution de kubectl get replicasets -A -o json : Command failed: kubectl get replicasets -A -o json
+E0626 23:19:53.805004    6138 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": dial tcp 127.0.0.1:49338: connect: connection refused
+E0626 23:19:53.807322    6138 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": dial tcp 127.0.0.1:49338: connect: connection refused
+E0626 23:19:53.807811    6138 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": dial tcp 127.0.0.1:49338: connect: connection refused
+E0626 23:19:53.809374    6138 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": dial tcp 127.0.0.1:49338: connect: connection refused
+E0626 23:19:53.809915    6138 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": dial tcp 127.0.0.1:49338: connect: connection refused
+The connection to the server 127.0.0.1:49338 was refused - did you specify the right host or port?
+
+❌ Erreur lors de l’exécution de kubectl get replicasets -A -o json : Command failed: kubectl get replicasets -A -o json
+E0626 23:19:53.887271    6143 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": dial tcp 127.0.0.1:49338: connect: connection refused
+E0626 23:19:53.887739    6143 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": dial tcp 127.0.0.1:49338: connect: connection refused
+E0626 23:19:53.888811    6143 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": dial tcp 127.0.0.1:49338: connect: connection refused
+E0626 23:19:53.889131    6143 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": dial tcp 127.0.0.1:49338: connect: connection refused
+E0626 23:19:53.890368    6143 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": dial tcp 127.0.0.1:49338: connect: connection refused
+The connection to the server 127.0.0.1:49338 was refused - did you specify the right host or port?
+
+❌ Erreur lors de l’exécution de kubectl get daemonsets -A -o json : Command failed: kubectl get daemonsets -A -o json
+E0626 23:19:53.894039    6144 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": dial tcp 127.0.0.1:49338: connect: connection refused
+E0626 23:19:53.894448    6144 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": dial tcp 127.0.0.1:49338: connect: connection refused
+E0626 23:19:53.895700    6144 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": dial tcp 127.0.0.1:49338: connect: connection refused
+E0626 23:19:53.896060    6144 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": dial tcp 127.0.0.1:49338: connect: connection refused
+E0626 23:19:53.897649    6144 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": dial tcp 127.0.0.1:49338: connect: connection refused
+The connection to the server 127.0.0.1:49338 was refused - did you specify the right host or port?
+
+❌ Erreur lors de l’exécution de kubectl get statefulsets -A -o json : Command failed: kubectl get statefulsets -A -o json
+E0626 23:19:53.895243    6146 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": dial tcp 127.0.0.1:49338: connect: connection refused
+E0626 23:19:53.895703    6146 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": dial tcp 127.0.0.1:49338: connect: connection refused
+E0626 23:19:53.896946    6146 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": dial tcp 127.0.0.1:49338: connect: connection refused
+E0626 23:19:53.897418    6146 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": dial tcp 127.0.0.1:49338: connect: connection refused
+E0626 23:19:53.898825    6146 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": dial tcp 127.0.0.1:49338: connect: connection refused
+The connection to the server 127.0.0.1:49338 was refused - did you specify the right host or port?
+
+❌ Erreur lors de l’exécution de kubectl get statefulsets -A -o json : Command failed: kubectl get statefulsets -A -o json
+E0626 23:19:53.894984    6145 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": dial tcp 127.0.0.1:49338: connect: connection refused
+E0626 23:19:53.895606    6145 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": dial tcp 127.0.0.1:49338: connect: connection refused
+E0626 23:19:53.896882    6145 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": dial tcp 127.0.0.1:49338: connect: connection refused
+E0626 23:19:53.897273    6145 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": dial tcp 127.0.0.1:49338: connect: connection refused
+E0626 23:19:53.898737    6145 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": dial tcp 127.0.0.1:49338: connect: connection refused
+The connection to the server 127.0.0.1:49338 was refused - did you specify the right host or port?
+
+❌ Erreur lors de l’exécution de kubectl get daemonsets -A -o json : Command failed: kubectl get daemonsets -A -o json
+E0626 23:19:53.898484    6148 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": dial tcp 127.0.0.1:49338: connect: connection refused
+E0626 23:19:53.900521    6148 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": dial tcp 127.0.0.1:49338: connect: connection refused
+E0626 23:19:53.900910    6148 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": dial tcp 127.0.0.1:49338: connect: connection refused
+E0626 23:19:53.902022    6148 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": dial tcp 127.0.0.1:49338: connect: connection refused
+E0626 23:19:53.902281    6148 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": dial tcp 127.0.0.1:49338: connect: connection refused
+The connection to the server 127.0.0.1:49338 was refused - did you specify the right host or port?
+
+❌ Erreur lors de l’exécution de kubectl get replicasets -A -o json : Command failed: kubectl get replicasets -A -o json
+E0626 23:19:53.897507    6147 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": dial tcp 127.0.0.1:49338: connect: connection refused
+E0626 23:19:53.898289    6147 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": dial tcp 127.0.0.1:49338: connect: connection refused
+E0626 23:19:53.899545    6147 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": dial tcp 127.0.0.1:49338: connect: connection refused
+E0626 23:19:53.900253    6147 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": dial tcp 127.0.0.1:49338: connect: connection refused
+E0626 23:19:53.901183    6147 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": dial tcp 127.0.0.1:49338: connect: connection refused
+The connection to the server 127.0.0.1:49338 was refused - did you specify the right host or port?
+
+❌ Erreur lors de l’exécution de kubectl get daemonsets -A -o json : Command failed: kubectl get daemonsets -A -o json
+E0626 23:19:53.973138    6149 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": dial tcp 127.0.0.1:49338: connect: connection refused
+E0626 23:19:53.973528    6149 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": dial tcp 127.0.0.1:49338: connect: connection refused
+E0626 23:19:53.974656    6149 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": dial tcp 127.0.0.1:49338: connect: connection refused
+E0626 23:19:53.974907    6149 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": dial tcp 127.0.0.1:49338: connect: connection refused
+E0626 23:19:53.976155    6149 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": dial tcp 127.0.0.1:49338: connect: connection refused
+The connection to the server 127.0.0.1:49338 was refused - did you specify the right host or port?
+
+❌ Erreur lors de l’exécution de kubectl get replicasets -A -o json : Command failed: kubectl get replicasets -A -o json
+E0626 23:19:53.976848    6150 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": dial tcp 127.0.0.1:49338: connect: connection refused
+E0626 23:19:53.977235    6150 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": dial tcp 127.0.0.1:49338: connect: connection refused
+E0626 23:19:53.978566    6150 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": dial tcp 127.0.0.1:49338: connect: connection refused
+E0626 23:19:53.978870    6150 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": dial tcp 127.0.0.1:49338: connect: connection refused
+E0626 23:19:53.980357    6150 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": dial tcp 127.0.0.1:49338: connect: connection refused
+The connection to the server 127.0.0.1:49338 was refused - did you specify the right host or port?
+
+❌ Erreur lors de l’exécution de kubectl get replicasets -A -o json : Command failed: kubectl get replicasets -A -o json
+E0626 23:19:53.982452    6151 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": dial tcp 127.0.0.1:49338: connect: connection refused
+E0626 23:19:53.982947    6151 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": dial tcp 127.0.0.1:49338: connect: connection refused
+E0626 23:19:53.983980    6151 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": dial tcp 127.0.0.1:49338: connect: connection refused
+E0626 23:19:53.984293    6151 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": dial tcp 127.0.0.1:49338: connect: connection refused
+E0626 23:19:53.985858    6151 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": dial tcp 127.0.0.1:49338: connect: connection refused
+The connection to the server 127.0.0.1:49338 was refused - did you specify the right host or port?
+
+❌ Erreur lors de l’exécution de kubectl get daemonsets -A -o json : Command failed: kubectl get daemonsets -A -o json
+E0626 23:19:53.985022    6153 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": dial tcp 127.0.0.1:49338: connect: connection refused
+E0626 23:19:53.985430    6153 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": dial tcp 127.0.0.1:49338: connect: connection refused
+E0626 23:19:53.986517    6153 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": dial tcp 127.0.0.1:49338: connect: connection refused
+E0626 23:19:53.986757    6153 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": dial tcp 127.0.0.1:49338: connect: connection refused
+E0626 23:19:53.988099    6153 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": dial tcp 127.0.0.1:49338: connect: connection refused
+The connection to the server 127.0.0.1:49338 was refused - did you specify the right host or port?
+
+❌ Erreur lors de l’exécution de kubectl get pods -A -o json : Command failed: kubectl get pods -A -o json
+E0626 23:19:53.985496    6152 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": dial tcp 127.0.0.1:49338: connect: connection refused
+E0626 23:19:53.985861    6152 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": dial tcp 127.0.0.1:49338: connect: connection refused
+E0626 23:19:53.986988    6152 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": dial tcp 127.0.0.1:49338: connect: connection refused
+E0626 23:19:53.987232    6152 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": dial tcp 127.0.0.1:49338: connect: connection refused
+E0626 23:19:53.988310    6152 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": dial tcp 127.0.0.1:49338: connect: connection refused
+The connection to the server 127.0.0.1:49338 was refused - did you specify the right host or port?
+
+❌ Erreur lors de l’exécution de kubectl get daemonsets -A -o json : Command failed: kubectl get daemonsets -A -o json
+E0626 23:19:54.045434    6155 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": dial tcp 127.0.0.1:49338: connect: connection refused
+E0626 23:19:54.045827    6155 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": dial tcp 127.0.0.1:49338: connect: connection refused
+E0626 23:19:54.046989    6155 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": dial tcp 127.0.0.1:49338: connect: connection refused
+E0626 23:19:54.047149    6155 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": dial tcp 127.0.0.1:49338: connect: connection refused
+E0626 23:19:54.048512    6155 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": dial tcp 127.0.0.1:49338: connect: connection refused
+The connection to the server 127.0.0.1:49338 was refused - did you specify the right host or port?
+
+❌ Erreur lors de l’exécution de kubectl get daemonsets -A -o json : Command failed: kubectl get daemonsets -A -o json
+E0626 23:19:54.046011    6154 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": dial tcp 127.0.0.1:49338: connect: connection refused
+E0626 23:19:54.046342    6154 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": dial tcp 127.0.0.1:49338: connect: connection refused
+E0626 23:19:54.047503    6154 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": dial tcp 127.0.0.1:49338: connect: connection refused
+E0626 23:19:54.047707    6154 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": dial tcp 127.0.0.1:49338: connect: connection refused
+E0626 23:19:54.048831    6154 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": dial tcp 127.0.0.1:49338: connect: connection refused
+The connection to the server 127.0.0.1:49338 was refused - did you specify the right host or port?
+
+❌ Erreur lors de l’exécution de kubectl get deployments -A -o json : Command failed: kubectl get deployments -A -o json
+E0626 23:19:54.049531    6156 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": dial tcp 127.0.0.1:49338: connect: connection refused
+E0626 23:19:54.049879    6156 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": dial tcp 127.0.0.1:49338: connect: connection refused
+E0626 23:19:54.051024    6156 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": dial tcp 127.0.0.1:49338: connect: connection refused
+E0626 23:19:54.051302    6156 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": dial tcp 127.0.0.1:49338: connect: connection refused
+E0626 23:19:54.052627    6156 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": dial tcp 127.0.0.1:49338: connect: connection refused
+The connection to the server 127.0.0.1:49338 was refused - did you specify the right host or port?
+
+❌ Erreur lors de l’exécution de kubectl get svc -A -o json : Command failed: kubectl get svc -A -o json
+E0626 23:19:54.106024    6157 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": dial tcp 127.0.0.1:49338: connect: connection refused
+E0626 23:19:54.106314    6157 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": dial tcp 127.0.0.1:49338: connect: connection refused
+E0626 23:19:54.107549    6157 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": dial tcp 127.0.0.1:49338: connect: connection refused
+E0626 23:19:54.107730    6157 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": dial tcp 127.0.0.1:49338: connect: connection refused
+E0626 23:19:54.108931    6157 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": dial tcp 127.0.0.1:49338: connect: connection refused
+The connection to the server 127.0.0.1:49338 was refused - did you specify the right host or port?
+
+❌ Erreur lors de l’exécution de kubectl get nodes -o json : Command failed: kubectl get nodes -o json
+E0626 23:19:54.159661    6158 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": dial tcp 127.0.0.1:49338: connect: connection refused
+E0626 23:19:54.159940    6158 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": dial tcp 127.0.0.1:49338: connect: connection refused
+E0626 23:19:54.161370    6158 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": dial tcp 127.0.0.1:49338: connect: connection refused
+E0626 23:19:54.161667    6158 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": dial tcp 127.0.0.1:49338: connect: connection refused
+E0626 23:19:54.162804    6158 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": dial tcp 127.0.0.1:49338: connect: connection refused
+The connection to the server 127.0.0.1:49338 was refused - did you specify the right host or port?
+
+❌ Erreur lors de l’exécution de kubectl get namespaces -o json : Command failed: kubectl get namespaces -o json
+E0626 23:19:54.215700    6159 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": dial tcp 127.0.0.1:49338: connect: connection refused
+E0626 23:19:54.216029    6159 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": dial tcp 127.0.0.1:49338: connect: connection refused
+E0626 23:19:54.217340    6159 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": dial tcp 127.0.0.1:49338: connect: connection refused
+E0626 23:19:54.217656    6159 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": dial tcp 127.0.0.1:49338: connect: connection refused
+E0626 23:19:54.218786    6159 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": dial tcp 127.0.0.1:49338: connect: connection refused
+The connection to the server 127.0.0.1:49338 was refused - did you specify the right host or port?
+
+❌ Erreur lors de l’exécution de kubectl get statefulsets -A -o json : Command failed: kubectl get statefulsets -A -o json
+E0626 23:19:54.273086    6160 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": dial tcp 127.0.0.1:49338: connect: connection refused
+E0626 23:19:54.273475    6160 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": dial tcp 127.0.0.1:49338: connect: connection refused
+E0626 23:19:54.274621    6160 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": dial tcp 127.0.0.1:49338: connect: connection refused
+E0626 23:19:54.274954    6160 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": dial tcp 127.0.0.1:49338: connect: connection refused
+E0626 23:19:54.275962    6160 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": dial tcp 127.0.0.1:49338: connect: connection refused
+The connection to the server 127.0.0.1:49338 was refused - did you specify the right host or port?
+
+❌ Erreur lors de l’exécution de kubectl get replicasets -A -o json : Command failed: kubectl get replicasets -A -o json
+E0626 23:19:54.327691    6161 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": dial tcp 127.0.0.1:49338: connect: connection refused
+E0626 23:19:54.327965    6161 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": dial tcp 127.0.0.1:49338: connect: connection refused
+E0626 23:19:54.329286    6161 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": dial tcp 127.0.0.1:49338: connect: connection refused
+E0626 23:19:54.329585    6161 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": dial tcp 127.0.0.1:49338: connect: connection refused
+E0626 23:19:54.330771    6161 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": dial tcp 127.0.0.1:49338: connect: connection refused
+The connection to the server 127.0.0.1:49338 was refused - did you specify the right host or port?
+
+❌ Erreur lors de l’exécution de kubectl get daemonsets -A -o json : Command failed: kubectl get daemonsets -A -o json
+E0626 23:19:54.388906    6162 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": dial tcp 127.0.0.1:49338: connect: connection refused
+E0626 23:19:54.389485    6162 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": dial tcp 127.0.0.1:49338: connect: connection refused
+E0626 23:19:54.390435    6162 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": dial tcp 127.0.0.1:49338: connect: connection refused
+E0626 23:19:54.390855    6162 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": dial tcp 127.0.0.1:49338: connect: connection refused
+E0626 23:19:54.391922    6162 memcache.go:265] couldn't get current server API group list: Get "https://127.0.0.1:49338/api?timeout=32s": dial tcp 127.0.0.1:49338: connect: connection refused
+The connection to the server 127.0.0.1:49338 was refused - did you specify the right host or port?
+
+Erreur namespaces: Command failed: kubectl get namespaces -o json
+E0626 23:38:04.995921    7960 memcache.go:265] couldn't get current server API group list: Get "http://localhost:8080/api?timeout=32s": dial tcp [::1]:8080: connect: connection refused
+E0626 23:38:04.996945    7960 memcache.go:265] couldn't get current server API group list: Get "http://localhost:8080/api?timeout=32s": dial tcp [::1]:8080: connect: connection refused
+E0626 23:38:04.998293    7960 memcache.go:265] couldn't get current server API group list: Get "http://localhost:8080/api?timeout=32s": dial tcp [::1]:8080: connect: connection refused
+E0626 23:38:04.999322    7960 memcache.go:265] couldn't get current server API group list: Get "http://localhost:8080/api?timeout=32s": dial tcp [::1]:8080: connect: connection refused
+E0626 23:38:05.000915    7960 memcache.go:265] couldn't get current server API group list: Get "http://localhost:8080/api?timeout=32s": dial tcp [::1]:8080: connect: connection refused
+The connection to the server localhost:8080 was refused - did you specify the right host or port?
+
+Erreur namespaces: Command failed: kubectl get namespaces -o json
+E0626 23:38:04.997766    7961 memcache.go:265] couldn't get current server API group list: Get "http://localhost:8080/api?timeout=32s": dial tcp [::1]:8080: connect: connection refused
+E0626 23:38:04.998839    7961 memcache.go:265] couldn't get current server API group list: Get "http://localhost:8080/api?timeout=32s": dial tcp [::1]:8080: connect: connection refused
+E0626 23:38:04.999960    7961 memcache.go:265] couldn't get current server API group list: Get "http://localhost:8080/api?timeout=32s": dial tcp [::1]:8080: connect: connection refused
+E0626 23:38:05.001241    7961 memcache.go:265] couldn't get current server API group list: Get "http://localhost:8080/api?timeout=32s": dial tcp [::1]:8080: connect: connection refused
+E0626 23:38:05.002084    7961 memcache.go:265] couldn't get current server API group list: Get "http://localhost:8080/api?timeout=32s": dial tcp [::1]:8080: connect: connection refused
+The connection to the server localhost:8080 was refused - did you specify the right host or port?
+

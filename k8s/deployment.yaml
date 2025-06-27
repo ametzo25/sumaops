@@ -1,0 +1,19 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: sumaops-demo
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: sumaops-demo
+  template:
+    metadata:
+      labels:
+        app: sumaops-demo
+    spec:
+      containers:
+      - name: web
+        image: nginxdemos/hello
+        ports:
+        - containerPort: 80
