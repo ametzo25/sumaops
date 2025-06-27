@@ -1,0 +1,23 @@
+i# Node.js
+node_modules/
+.env
+dist/
+build/
+
+# Logs
+*.log
+
+# System
+.DS_Store
+
+# SQLite database
+*.sqlite
+*.sqlite3
+
+# IDEs
+.vscode/
+.idea/
+
+# Backend uploads or generated
+backend/uploads/
+
